@@ -15,3 +15,7 @@ The stop timer is added in dotNET version, not yet in Native version.
 <img src="screenshot/insomnia0.png" width="286" height="193">
 
 <img src="screenshot/insomnia1.png" width="286" height="193">
+
+<H3>Command line options:</H3>
+  <ul><li>Start in tray (minimized): -minimize </li></ul>
+  
